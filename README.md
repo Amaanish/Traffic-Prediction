@@ -176,7 +176,7 @@ traffic-prediction-system/
 └── README.md                    # This file
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Route Coordinates
 Current setup uses:
