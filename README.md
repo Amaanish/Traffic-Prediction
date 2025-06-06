@@ -170,7 +170,7 @@ The system generates static maps showing:
 
 ```
 traffic-prediction-system/
-├── main.py          # Main application file
+├── main.ipynb          # Main application file
 ├── traffic_data_to_go.xlsx       # Historical data (to destination)
 ├── traffic_data_return.xlsx      # Historical data (from destination)
 └── README.md                    # This file
