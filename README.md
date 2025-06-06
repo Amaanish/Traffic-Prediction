@@ -1,4 +1,4 @@
-# Traffic Prediction System 🚗📊
+# Traffic Prediction System
 
 A machine learning-powered traffic prediction system that analyzes and predicts travel times between 2 locations using real-time traffic data from TomTom API.
 
