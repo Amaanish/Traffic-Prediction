@@ -212,4 +212,8 @@ The system collects and uses the following data points:
 - scikit-learn community for machine learning tools
 - Contributors and users of this project
 
+## Future Plans for the Code
+
+- Currently supports predictions for only one route/location because data is stored in a single Excel file; plan to extend support for multiple routes with flexible data management.
+- Enhance model interpretability by incorporating explainability techniques (e.g., SHAP values, feature importance) to clarify how the AI arrives at its travel time predictions.
 ---
